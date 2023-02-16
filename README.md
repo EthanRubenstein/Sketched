@@ -8,7 +8,7 @@ Future plans include to create an organized file system to house our sticky note
 
 ## Directions
 
-Check it out at https://group-project-dev.ue.r.appspot.com/p/about.html!
+Check it out at https://group-project-dev.ue.r.appspot.com/p/index.html!
 
 
 ## Team
